@@ -1,3 +1,6 @@
-#Simple generic fix for dropdown navigation triggered on :hover for touch devices
+## nav-fix.js
 
-Not much to say, really!
+Very simple jQuery snippet to fix dropdown navigation triggered on :hover, for touch devices.
+
+### To-do: 
+- [ ] Add IE10 Mobile

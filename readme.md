@@ -4,6 +4,6 @@ Very simple jQuery snippet to fix dropdown navigation triggered on :hover, for t
 
 ### To-do:
 
-- [ ] Add IE10 Mobile
-- [x] Fix todo list
+- [  ] Add IE10 Mobile
+- [ x ] Fix todo list
 
